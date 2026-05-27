@@ -55,116 +55,118 @@
 </ul>
 <p>2. CSS Selectors Complete Reference</p>
 <h3>CSS Properties</h3>
+<ul>
+  <li>•	CSS accent-color Property</li>
+  <li>•	CSS all Property</li>
+  <li>•	CSS align</li>
+  <li>•	CSS Animations</li>
+  <li>•	CSS aspect-ratio Property</li>
+  <li>•	CSS backdrop-filter Property</li>
+  <li>•	CSS backface-visibility Property</li>
+  <li>•	CSS Background</li>
+  <li>•	CSS Borders</li>
+  <li>•	CSS block-size Property</li>
+  <li>•	CSS Bottom Property</li>
+  <li>•	CSS padding-bottom Property</li>
+  <li>•	CSS margin-bottom Property</li>
+  <li>•	CSS box-sizing Property</li>
+  <li>•	CCSS box decoration break Property</li>
+  <li>•	CSS box-shadow Property</li>
+  <li>•	CSS break-after property</li>
+  <li>•	CSS break-before Property</li>
+  <li>•	CSS break-inside property</li>
+  <li>•	CSS word-break Property</li>
+  <li>•	CSS clip-path Property</li>
+  <li>•	CSS color Property</li>
+  <li>•	CSS column-fill Property</li>
+  <li>•	CSS column-count Property</li>
+  <li>•	CSS column-width Property</li>
+  <li>•	CSS column-rule Property</li>
+  <li>•	CSS column-span Property</li>
+  <li>•	CSS column-rule-width Property</li>
+  <li>•	CSS column-gap Property</li>
+  <li>•	CSS columns Property</li>
+  <li>•	CSS content Property</li>
+  <li>•	CSS Counters</li>
+  <li>•	CSS counter-increment Property</li>
+  <li>•	CSS counter-reset Property</li>
+  <li>•	CSS Display property</li>
+  <li>•	CSS cursor Property</li>
+  <li>•	CSS direction Property</li>
+  <li>•	CSS filter Property</li>
+  <li>•	CSS flex Property</li>
+  <li>•	CSS Float</li>
+  <li>•	CSS Fonts</li>
+  <li>•	CSS grid Property</li>
+  <li>•	CSS height Property</li>
+  <li>•	CSS image-rendering Property</li>
+  <li>•	CSS inset Property</li>
+  <li>•	CSS justify-content Property</li>
+  <li>•	CSS justify-self Property</li>
+  <li>•	CSS |eft Property</li>
+  <li>•	CSS letter-spacing Property</li>
+  <li>•	CSS line-height Property</li>
+  <li>•	CSS list Property</li>
+  <li>•	CSS list-style Property</li>
+  <li>•	CSS list-style-image Property</li>
+  <li>•	CSS list-style-position Property</li>
+  <li>•	CSS list-style-type Property</li>
+  <li>•	CSS margin-top Property</li>
+  <li>•	CSS margin-right Property</li>
+  <li>•	CSS margin-bottom Property</li>
+  <li>•	CSS margin-left Property</li>
+  <li>•	CSS mask-clip Property</li>
+  <li>•	CSS mask-composite Property</li>
+  <li>•	CSS mask-image Property</li>
+  <li>•	CSS mask-origin Property</li>
+  <li>•	CSS mask-position Property</li>
+  <li>•	CSS mask-repeat Property</li>
+  <li>•	CSS mask-size Property</li>
+  <li>•	CSS max-block-size Property</li>
+  <li>•	CSS max-height Property</li>
+  <li>•	CSS max-inline-size Property</li>
+  <li>•	CSS max-width Property</li>
+  <li>•	CSS min-block-size Property</li>
+  <li>•	CSS min-height Property</li>
+  <li>•	CSS min-inline-size Property</li>
+  <li>•	CSS min-width Property</li>
+  <li>•	CSS mix-blend-mode Property</li>
+  <li>•	CSS object-fit Property</li>
+  <li>•	CSS object-position Property</li>
+  <li>•	CSS Opacity / Transparency Property</li>
+  <li>•	CSS order property</li>
+  <li>•	CSS Outline Property</li>
+  <li>•	CSS overflow Property</li>
+  <li>•	CSS overscroll-behavior Property</li>
+  <li>•	CSS overscroll-behavior-inline Property</li>
+  <li>•	CSS overscroll-behavior-x Property</li>
+  <li>•	CSS overscroll-behavior-y Property</li>
+  <li>•	CSS Padding Property</li>
+  <li>•	CSS padding-top Property</li>
+  <li>•	CSS padding-right Property</li>
+  <li>•	CSS padding-bottom Property</li>
+  <li>•	CSS padding-left Property</li>
+  <li>•	CSS position Property</li>
+  <li>•	CSS text-align Property</li>
+  <li>•	CSS text-decoration Property</li>
+  <li>•	CSS text-overflow Property</li>
+  <li>•	CSS text-justify Property</li>
+  <li>•	CSS text-shadow Property</li>
+  <li>•	CSS text-transform Property</li>
+  <li>•	CSS transform Property</li>
+  <li>•	CSS transform-origin Property</li>
+  <li>•	CSS transform-style Property</li>
+  <li>•	CSS transition Property</li>
+  <li>•	CSS transition-delay Property</li>
+  <li>•	CSS transition-duration Property</li>
+  <li>•	CSS transition-timing-function Property</li>
+  <li>•	CSS word-break Property</li>
+  <li>•	CSS word-spacing Property</li>
+  <li>•	CSS z-index Property</li>
+  <li>•	CSS Properties Complete Reference</li>
+</ul>
 
-•	CSS accent-color Property
-•	CSS all Property
-•	CSS align
-•	CSS Animations
-•	CSS aspect-ratio Property
-•	CSS backdrop-filter Property
-•	CSS backface-visibility Property
-•	CSS Background
-•	CSS Borders
-•	CSS block-size Property
-•	CSS Bottom Property
-•	CSS padding-bottom Property
-•	CSS margin-bottom Property
-•	CSS box-sizing Property
-•	CCSS box decoration break Property
-•	CSS box-shadow Property
-•	CSS break-after property
-•	CSS break-before Property
-•	CSS break-inside property
-•	CSS word-break Property
-•	CSS clip-path Property
-•	CSS color Property
-•	CSS column-fill Property
-•	CSS column-count Property
-•	CSS column-width Property
-•	CSS column-rule Property
-•	CSS column-span Property
-•	CSS column-rule-width Property
-•	CSS column-gap Property
-•	CSS columns Property
-•	CSS content Property
-•	CSS Counters
-•	CSS counter-increment Property
-•	CSS counter-reset Property
-•	CSS Display property
-•	CSS cursor Property
-•	CSS direction Property
-•	CSS filter Property
-•	CSS flex Property 
-•	CSS Float
-•	CSS Fonts
-•	CSS grid Property
-•	CSS height Property 
-•	CSS image-rendering Property
-•	CSS inset Property 
-•	CSS justify-content Property
-•	CSS justify-self Property
-•	CSS |eft Property
-•	CSS letter-spacing Property
-•	CSS line-height Property
-•	CSS list Property
-•	CSS list-style Property
-•	CSS list-style-image Property 
-•	CSS list-style-position Property
-•	CSS list-style-type Property
-•	CSS margin-top Property
-•	CSS margin-right Property
-•	CSS margin-bottom Property
-•	CSS margin-left Property
-•	CSS mask-clip Property
-•	CSS mask-composite Property
-•	CSS mask-image Property
-•	CSS mask-origin Property
-•	CSS mask-position Property
-•	CSS mask-repeat Property
-•	CSS mask-size Property
-•	CSS max-block-size Property
-•	CSS max-height Property
-•	CSS max-inline-size Property
-•	CSS max-width Property
-•	CSS min-block-size Property
-•	CSS min-height Property
-•	CSS min-inline-size Property
-•	CSS min-width Property
-•	CSS mix-blend-mode Property
-•	CSS object-fit Property
-•	CSS object-position Property
-•	CSS Opacity / Transparency Property
-•	CSS order property
-•	CSS Outline Property
-•	CSS overflow Property
-•	CSS overscroll-behavior Property
-•	CSS overscroll-behavior-inline Property
-•	CSS overscroll-behavior-x Property
-•	CSS overscroll-behavior-y Property
-•	CSS Padding Property
-•	CSS padding-top Property
-•	CSS padding-right Property
-•	CSS padding-bottom Property
-•	CSS padding-left Property
-•	CSS position Property
-•	CSS text-align Property
-•	CSS text-decoration Property
-•	CSS text-overflow Property
-•	CSS text-justify Property
-•	CSS text-shadow Property
-•	CSS text-transform Property
-•	CSS transform Property
-•	CSS transform-origin Property
-•	CSS transform-style Property
-•	CSS transition Property
-•	CSS transition-delay Property
-•	CSS transition-duration Property
-•	CSS transition-timing-function Property
-•	CSS word-break Property
-•	CSS word-spacing Property
-•	CSS z-index Property
-•	CSS Properties Complete Reference
-CSS Modules
+<h2 id="css-modules">CSS Modules</h2>
 
 
 
