@@ -36,3 +36,24 @@
   <li>•	How to apply !important in CSS?</li>
 </ul>
 
+<h3 id="css-selectors">CSS Selectors</h3>
+<p>1. CSS Selectors</p>
+
+<h3>Simple Selector</h3>
+<ul>
+  <li>•	Class Selectors</li>
+  <li>•	ID Selectors</li>
+  <li>•	Element Selector</li>
+  <li>•	Attribute Selectors</li>
+</ul>
+<h3>Group Selector</h3>
+<ul>
+  <li>•	Pseudo-Class Selector</li>
+  <li>•	Pseudo-Element Selector</li>
+  <li>•	Universal Selectors</li>
+  <li>•	WildCard Selector</li>
+</ul>
+<p>2. CSS Selectors Complete Reference</p>
+<h3>CSS Properties</h3>
+
+
