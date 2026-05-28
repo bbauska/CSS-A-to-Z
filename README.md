@@ -272,7 +272,8 @@
 •	CSS :scope pseudo-class
 •	CSS :visited pseudo-class 
 •	CSS :where() pseudo-class 
-2. CSS Pseudo-Elements
+
+<p>2. CSS Pseudo-Elements</p>
 •	CSS ::after
 •	CSS ::before
 •	CSS ::first-letter
@@ -299,9 +300,10 @@
 •	CSS @property Rule
 •	CSS @supports Rule
 
-CSS Interview Preparation
+<h2>CSS Interview Preparation</h2>
 •	CSS Interview Questions and Answers (2023)
-CSS Practice Quiz
+
+<h2>CSS Practice Quiz</h2>
 •	CSS Quiz | Set-1
 •	CSS Quiz | Set-2
 •	CSS Quiz | Set-3
@@ -320,6 +322,7 @@ CSS Practice Quiz
 <h2>CSS Course & Cheat Sheet</h2>
 •	CSS Free Course
 •	CSS Cheat Sheet – A Basic Guide to CSS
+
 Article Tags:
 Web Technologies
 CSS
