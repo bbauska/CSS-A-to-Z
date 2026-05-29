@@ -169,41 +169,50 @@
 <h2 id="css-modules">CSS Modules</h2>
 
 <p>1. CSS Animations</p>
-•	CSS animation Property
-•	CSS animation-delay Property
-•	CSS animation-direction Property
-•	CSS animation-duration Property
-•	CSS animation-fill-mode Property
-•	CSS animation-iteration-count Property
-•	CSS animation-name Property
-•	CSS animation-play-state Property
-•	CSS animation-timing-function Property
-
+<ul>
+  <li>• CSS animation Property</li>
+  <li>•	CSS animation-delay Property</li>
+  <li>•	CSS animation-direction Property</li>
+  <li>•	CSS animation-duration Property</li>
+  <li>•	CSS animation-fill-mode Property</li>
+  <li>•	CSS animation-iteration-count Property</li>
+  <li>•	CSS animation-name Property</li>
+  <li>•	CSS animation-play-state Property</li>
+  <li>•	CSS animation-timing-function Property</li>
+</ul>
 <p>2. CSS Borders</p>
-•	Border Style
-•	Border Width
-•	Border Color
-•	Border radius property
+<ul>
+  <li>•	Border Style</li>
+  <li>•	Border Width</li>
+  <li>•	Border Color</li>
+  <li>•	Border radius property</li>
+</ul>
 
 <p>3. CSS Background</p>
-•	CSS background-color Property
-•	CSS background-image Property
-•	CSS background-attachment Property
-•	CSS background-position Property
-•	CSS background-origin property
-•	CSS background-clip Property
+<ul>
+  <li>•	CSS background-color Property</li>
+  <li>•	CSS background-image Property</li>
+  <li>•	CSS background-attachment Property</li>
+  <li>•	CSS background-position Property</li>
+  <li>•	CSS background-origin property</li>
+  <li>•	CSS background-clip Property</li>
+</ul>
 
 <p>4. CSS align</p>
-•	CSS align-content Property
-•	CSS align-items Property
-•	CSS align-self Property
-•	CSS text-align Property
-•	CSS vertical-align Property
+<ul>
+  <li>•	CSS align-content Property</li>
+  <li>•	CSS align-items Property</li>
+  <li>•	CSS align-self Property</li>
+  <li>•	CSS text-align Property</li>
+  <li>•	CSS vertical-align Property</li>
+</ul>
 
 <p>5. CSS Box model</p>
-•	CSS Borders
-•	CSS Margins
-•	CSS Padding
+<ul>
+  <li>•	CSS Borders</li>
+  <li>•	CSS Margins</li>
+  <li>•	CSS Padding</li>
+</ul>
 
 <p>6. What is the cascading order of the three types of CSS</p>
 <p>7. How to apply concept of inheritance in CSS</p>
@@ -220,58 +229,63 @@
 
 <h2 id="css-functions">CSS Functions</h2>
 
-•	CSS abs() Function
-•	CSS acos() Function
-•	CSS asin() Function
-•	CSS atan() Function
-•	CSS atan2() Function
-•	CSS attr() Function
-•	CSS calc() Function
-•	CSS clamp() Function
-•	CSS cos() Function
-•	CSS env() Function
-•	CSS max() Function
-•	CSS min() Function
-•	CSS sin() Function
-•	CSS tan() Function
-•	CSS url() Function
-•	CSS var() Function
-•	CSS Functions Complete Reference
+<ul>
+  <li>•	CSS abs() Function</li>
+  <li>•	CSS acos() Function</li>
+  <li>•	CSS asin() Function</li>
+  <li>•	CSS atan() Function</li>
+  <li>•	CSS atan2() Function</li>
+  <li>•	CSS attr() Function</li>
+  <li>•	CSS calc() Function</li>
+  <li>•	CSS clamp() Function</li>
+  <li>•	CSS cos() Function</li>
+  <li>•	CSS env() Function</li>
+  <li>•	CSS max() Function</li>
+  <li>•	CSS min() Function</li>
+  <li>•	CSS sin() Function</li>
+  <li>•	CSS tan() Function</li>
+  <li>•	CSS url() Function</li>
+  <li>•	CSS var() Function</li>
+  <li>•	CSS Functions Complete Reference</li>
+</ul>
 
 <h2 id="css-combinators">CSS Combinators</h2>
-•	CSS Combinators
-•	CSS Adjacent sibling combinator
-•	CSS Child combinator
-•	CSS Descendant combinator
-•	CSS General sibling combinator
-•	CSS Namespace separator
-•	CSS Selector list
+<ul>
+  <li>•	CSS Combinators</li>
+  <li>•	CSS Adjacent sibling combinator</li>
+  <li>•	CSS Child combinator</li>
+  <li>•	CSS Descendant combinator</li>
+  <li>•	CSS General sibling combinator</li>
+  <li>•	CSS Namespace separator</li>
+  <li>•	CSS Selector list</li>
+</ul>
 
 <h2 id="css-pseudo-class">CSS Pseudo-classes & Elements</h2>
 <p>1. CSS Pseudo-classes</p>
 
-•	CSS :active pseudo-class 
-•	CSS :any-link pseudo-class 
-•	CSS :autofill pseudo-class 
-•	CSS :checked pseudo-class 
-•	CSS :dir() pseudo-class 
-•	CSS :first-child pseudo-class 
-•	CSS :first-of-type pseudo-class 
-•	CSS :focus pseudo-class 
-•	CSS :focus-within pseudo-class 
-•	CSS :has() pseudo-class 
-•	CSS :hover pseudo-class 
-•	CSS :in-range pseudo-class 
-•	CSS :indeterminate pseudo-class 
-•	CSS :invalid pseudo-class 
-•	CSS :lang() pseudo-class 
-•	CSS :nth-child() pseudo-class 
-•	CSS :nth-last-child() pseudo-class 
-•	CSS :nth-last-of-type() pseudo-class 
-•	CSS :nth-of-type() pseudo-class 
-•	CSS :scope pseudo-class
-•	CSS :visited pseudo-class 
-•	CSS :where() pseudo-class 
+  <li>•	CSS :active pseudo-class</li>
+  <li>•	CSS :any-link pseudo-class</li>
+  <li>•	CSS :autofill pseudo-class</li>
+  <li>•	CSS :checked pseudo-class</li>
+  <li>•	CSS :dir() pseudo-class</li>
+  <li>•	CSS :first-child pseudo-class</li>
+  <li>•	CSS :first-of-type pseudo-class</li>
+  <li>•	CSS :focus pseudo-class</li>
+  <li>•	CSS :focus-within pseudo-class</li>
+  <li>•	CSS :has() pseudo-class</li>
+  <li>•	CSS :hover pseudo-class</li>
+  <li>•	CSS :in-range pseudo-class</li>
+  <li>•	CSS :indeterminate pseudo-class</li>
+  <li>•	CSS :invalid pseudo-class</li>
+  <li>•	CSS :lang() pseudo-class</li>
+  <li>•	CSS :nth-child() pseudo-class</li>
+  <li>•	CSS :nth-last-child() pseudo-class</li>
+  <li>•	CSS :nth-last-of-type() pseudo-class</li>
+  <li>•	CSS :nth-of-type() pseudo-class</li>
+  <li>•	CSS :scope pseudo-class</li>
+  <li>•	CSS :visited pseudo-class</li>
+  <li>•	CSS :where() pseudo-class</li>
+</ul>
 
 <p>2. CSS Pseudo-Elements</p>
 •	CSS ::after
