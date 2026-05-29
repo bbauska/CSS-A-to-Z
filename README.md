@@ -3,37 +3,37 @@
 
 <h2 id="css-basics">CSS Basics</h2>
 <ul>
-  <li>•	CSS Introduction</li>
-  <li>•	CSS Syntax</li>
-  <li>•	CSS Comments</li>
-  <li>•	CSS Selectors</li>
-  <li>•	CSS Colors</li>
-  <li>•	CSS Background</li>
-  <li>•	CSS Borders</li>
-  <li>•	CSS Margins and Padding</li>
-  <li>•	CSS Height and Width</li>
-  <li>•	CSS Outline</li>
-  <li>•	CSS Icons</li>
-  <li>•	CSS Links</li>
-  <li>•	CSS Lists</li>
-  <li>•	CSS Tables</li>
-  <li>•	CSS Display property</li>
-  <li>•	CSS max-width Property</li>
-  <li>•	CSS Positioning Elements</li>
-  <li>•	CSS z-index Property</li>
-  <li>•	CSS Overflow</li>
-  <li>•	CSS Float</li>
-  <li>•	CSS Align</li>
-  <li>•	CSS Combinators</li>
-  <li>•	CSS Opacity / Transparency</li>
-  <li>•	CSS DropDowns</li>
-  <li>•	CSS Image Gallery</li>
-  <li>•	CSS Image Sprites</li>
-  <li>•	CSS Counters</li>
-  <li>•	CSS Website Layout</li>
-  <li>•	CSS Units</li>
-  <li>•	CSS Specificity</li>
-  <li>•	How to apply !important in CSS?</li>
+  <li>• CSS Introduction</li>
+  <li>• CSS Syntax</li>
+  <li>• CSS Comments</li>
+  <li>• CSS Selectors</li>
+  <li>• CSS Colors</li>
+  <li>• CSS Background</li>
+  <li>• CSS Borders</li>
+  <li>• CSS Margins and Padding</li>
+  <li>• CSS Height and Width</li>
+  <li>• CSS Outline</li>
+  <li>• CSS Icons</li>
+  <li>• CSS Links</li>
+  <li>• CSS Lists</li>
+  <li>• CSS Tables</li>
+  <li>• CSS Display property</li>
+  <li>• CSS max-width Property</li>
+  <li>• CSS Positioning Elements</li>
+  <li>• CSS z-index Property</li>
+  <li>• CSS Overflow</li>
+  <li>• CSS Float</li>
+  <li>• CSS Align</li>
+  <li>• CSS Combinators</li>
+  <li>• CSS Opacity / Transparency</li>
+  <li>• CSS DropDowns</li>
+  <li>• CSS Image Gallery</li>
+  <li>• CSS Image Sprites</li>
+  <li>• CSS Counters</li>
+  <li>• CSS Website Layout</li>
+  <li>• CSS Units</li>
+  <li>• CSS Specificity</li>
+  <li>• How to apply !important in CSS?</li>
 </ul>
 
 <h3 id="css-selectors">CSS Selectors</h3>
@@ -41,129 +41,129 @@
 
 <h3>Simple Selector</h3>
 <ul>
-  <li>•	Class Selectors</li>
-  <li>•	ID Selectors</li>
-  <li>•	Element Selector</li>
-  <li>•	Attribute Selectors</li>
+  <li>• Class Selectors</li>
+  <li>• ID Selectors</li>
+  <li>• Element Selector</li>
+  <li>• Attribute Selectors</li>
 </ul>
 <h3>Group Selector</h3>
 <ul>
-  <li>•	Pseudo-Class Selector</li>
-  <li>•	Pseudo-Element Selector</li>
-  <li>•	Universal Selectors</li>
-  <li>•	WildCard Selector</li>
+  <li>• Pseudo-Class Selector</li>
+  <li>• Pseudo-Element Selector</li>
+  <li>• Universal Selectors</li>
+  <li>• WildCard Selector</li>
 </ul>
 <p>2. CSS Selectors Complete Reference</p>
 <h3>CSS Properties</h3>
 <ul>
-  <li>•	CSS accent-color Property</li>
-  <li>•	CSS all Property</li>
-  <li>•	CSS align</li>
-  <li>•	CSS Animations</li>
-  <li>•	CSS aspect-ratio Property</li>
-  <li>•	CSS backdrop-filter Property</li>
-  <li>•	CSS backface-visibility Property</li>
-  <li>•	CSS Background</li>
-  <li>•	CSS Borders</li>
-  <li>•	CSS block-size Property</li>
-  <li>•	CSS Bottom Property</li>
-  <li>•	CSS padding-bottom Property</li>
-  <li>•	CSS margin-bottom Property</li>
-  <li>•	CSS box-sizing Property</li>
-  <li>•	CCSS box decoration break Property</li>
-  <li>•	CSS box-shadow Property</li>
-  <li>•	CSS break-after property</li>
-  <li>•	CSS break-before Property</li>
-  <li>•	CSS break-inside property</li>
-  <li>•	CSS word-break Property</li>
-  <li>•	CSS clip-path Property</li>
-  <li>•	CSS color Property</li>
-  <li>•	CSS column-fill Property</li>
-  <li>•	CSS column-count Property</li>
-  <li>•	CSS column-width Property</li>
-  <li>•	CSS column-rule Property</li>
-  <li>•	CSS column-span Property</li>
-  <li>•	CSS column-rule-width Property</li>
-  <li>•	CSS column-gap Property</li>
-  <li>•	CSS columns Property</li>
-  <li>•	CSS content Property</li>
-  <li>•	CSS Counters</li>
-  <li>•	CSS counter-increment Property</li>
-  <li>•	CSS counter-reset Property</li>
-  <li>•	CSS Display property</li>
-  <li>•	CSS cursor Property</li>
-  <li>•	CSS direction Property</li>
-  <li>•	CSS filter Property</li>
-  <li>•	CSS flex Property</li>
-  <li>•	CSS Float</li>
-  <li>•	CSS Fonts</li>
-  <li>•	CSS grid Property</li>
-  <li>•	CSS height Property</li>
-  <li>•	CSS image-rendering Property</li>
-  <li>•	CSS inset Property</li>
-  <li>•	CSS justify-content Property</li>
-  <li>•	CSS justify-self Property</li>
-  <li>•	CSS |eft Property</li>
-  <li>•	CSS letter-spacing Property</li>
-  <li>•	CSS line-height Property</li>
-  <li>•	CSS list Property</li>
-  <li>•	CSS list-style Property</li>
-  <li>•	CSS list-style-image Property</li>
-  <li>•	CSS list-style-position Property</li>
-  <li>•	CSS list-style-type Property</li>
-  <li>•	CSS margin-top Property</li>
-  <li>•	CSS margin-right Property</li>
-  <li>•	CSS margin-bottom Property</li>
-  <li>•	CSS margin-left Property</li>
-  <li>•	CSS mask-clip Property</li>
-  <li>•	CSS mask-composite Property</li>
-  <li>•	CSS mask-image Property</li>
-  <li>•	CSS mask-origin Property</li>
-  <li>•	CSS mask-position Property</li>
-  <li>•	CSS mask-repeat Property</li>
-  <li>•	CSS mask-size Property</li>
-  <li>•	CSS max-block-size Property</li>
-  <li>•	CSS max-height Property</li>
-  <li>•	CSS max-inline-size Property</li>
-  <li>•	CSS max-width Property</li>
-  <li>•	CSS min-block-size Property</li>
-  <li>•	CSS min-height Property</li>
-  <li>•	CSS min-inline-size Property</li>
-  <li>•	CSS min-width Property</li>
-  <li>•	CSS mix-blend-mode Property</li>
-  <li>•	CSS object-fit Property</li>
-  <li>•	CSS object-position Property</li>
-  <li>•	CSS Opacity / Transparency Property</li>
-  <li>•	CSS order property</li>
-  <li>•	CSS Outline Property</li>
-  <li>•	CSS overflow Property</li>
-  <li>•	CSS overscroll-behavior Property</li>
-  <li>•	CSS overscroll-behavior-inline Property</li>
-  <li>•	CSS overscroll-behavior-x Property</li>
-  <li>•	CSS overscroll-behavior-y Property</li>
-  <li>•	CSS Padding Property</li>
-  <li>•	CSS padding-top Property</li>
-  <li>•	CSS padding-right Property</li>
-  <li>•	CSS padding-bottom Property</li>
-  <li>•	CSS padding-left Property</li>
-  <li>•	CSS position Property</li>
-  <li>•	CSS text-align Property</li>
-  <li>•	CSS text-decoration Property</li>
-  <li>•	CSS text-overflow Property</li>
-  <li>•	CSS text-justify Property</li>
-  <li>•	CSS text-shadow Property</li>
-  <li>•	CSS text-transform Property</li>
-  <li>•	CSS transform Property</li>
-  <li>•	CSS transform-origin Property</li>
-  <li>•	CSS transform-style Property</li>
-  <li>•	CSS transition Property</li>
-  <li>•	CSS transition-delay Property</li>
-  <li>•	CSS transition-duration Property</li>
-  <li>•	CSS transition-timing-function Property</li>
-  <li>•	CSS word-break Property</li>
-  <li>•	CSS word-spacing Property</li>
-  <li>•	CSS z-index Property</li>
-  <li>•	CSS Properties Complete Reference</li>
+  <li>• CSS accent-color Property</li>
+  <li>• CSS all Property</li>
+  <li>• CSS align</li>
+  <li>• CSS Animations</li>
+  <li>• CSS aspect-ratio Property</li>
+  <li>• CSS backdrop-filter Property</li>
+  <li>• CSS backface-visibility Property</li>
+  <li>• CSS Background</li>
+  <li>• CSS Borders</li>
+  <li>• CSS block-size Property</li>
+  <li>• CSS Bottom Property</li>
+  <li>• CSS padding-bottom Property</li>
+  <li>• CSS margin-bottom Property</li>
+  <li>• CSS box-sizing Property</li>
+  <li>• CCSS box decoration break Property</li>
+  <li>• CSS box-shadow Property</li>
+  <li>• CSS break-after property</li>
+  <li>• CSS break-before Property</li>
+  <li>• CSS break-inside property</li>
+  <li>• CSS word-break Property</li>
+  <li>• CSS clip-path Property</li>
+  <li>• CSS color Property</li>
+  <li>• CSS column-fill Property</li>
+  <li>• CSS column-count Property</li>
+  <li>• CSS column-width Property</li>
+  <li>• CSS column-rule Property</li>
+  <li>• CSS column-span Property</li>
+  <li>• CSS column-rule-width Property</li>
+  <li>• CSS column-gap Property</li>
+  <li>• CSS columns Property</li>
+  <li>• CSS content Property</li>
+  <li>• CSS Counters</li>
+  <li>• CSS counter-increment Property</li>
+  <li>• CSS counter-reset Property</li>
+  <li>• CSS Display property</li>
+  <li>• CSS cursor Property</li>
+  <li>• CSS direction Property</li>
+  <li>• CSS filter Property</li>
+  <li>• CSS flex Property</li>
+  <li>• CSS Float</li>
+  <li>• CSS Fonts</li>
+  <li>• CSS grid Property</li>
+  <li>• CSS height Property</li>
+  <li>• CSS image-rendering Property</li>
+  <li>• CSS inset Property</li>
+  <li>• CSS justify-content Property</li>
+  <li>• CSS justify-self Property</li>
+  <li>• CSS |eft Property</li>
+  <li>• CSS letter-spacing Property</li>
+  <li>• CSS line-height Property</li>
+  <li>• CSS list Property</li>
+  <li>• CSS list-style Property</li>
+  <li>• CSS list-style-image Property</li>
+  <li>• CSS list-style-position Property</li>
+  <li>• CSS list-style-type Property</li>
+  <li>• CSS margin-top Property</li>
+  <li>• CSS margin-right Property</li>
+  <li>• CSS margin-bottom Property</li>
+  <li>• CSS margin-left Property</li>
+  <li>• CSS mask-clip Property</li>
+  <li>• CSS mask-composite Property</li>
+  <li>• CSS mask-image Property</li>
+  <li>• CSS mask-origin Property</li>
+  <li>• CSS mask-position Property</li>
+  <li>• CSS mask-repeat Property</li>
+  <li>• CSS mask-size Property</li>
+  <li>• CSS max-block-size Property</li>
+  <li>• CSS max-height Property</li>
+  <li>• CSS max-inline-size Property</li>
+  <li>• CSS max-width Property</li>
+  <li>• CSS min-block-size Property</li>
+  <li>• CSS min-height Property</li>
+  <li>• CSS min-inline-size Property</li>
+  <li>• CSS min-width Property</li>
+  <li>• CSS mix-blend-mode Property</li>
+  <li>• CSS object-fit Property</li>
+  <li>• CSS object-position Property</li>
+  <li>• CSS Opacity / Transparency Property</li>
+  <li>• CSS order property</li>
+  <li>• CSS Outline Property</li>
+  <li>• CSS overflow Property</li>
+  <li>• CSS overscroll-behavior Property</li>
+  <li>• CSS overscroll-behavior-inline Property</li>
+  <li>• CSS overscroll-behavior-x Property</li>
+  <li>• CSS overscroll-behavior-y Property</li>
+  <li>• CSS Padding Property</li>
+  <li>• CSS padding-top Property</li>
+  <li>• CSS padding-right Property</li>
+  <li>• CSS padding-bottom Property</li>
+  <li>• CSS padding-left Property</li>
+  <li>• CSS position Property</li>
+  <li>• CSS text-align Property</li>
+  <li>• CSS text-decoration Property</li>
+  <li>• CSS text-overflow Property</li>
+  <li>• CSS text-justify Property</li>
+  <li>• CSS text-shadow Property</li>
+  <li>• CSS text-transform Property</li>
+  <li>• CSS transform Property</li>
+  <li>• CSS transform-origin Property</li>
+  <li>• CSS transform-style Property</li>
+  <li>• CSS transition Property</li>
+  <li>• CSS transition-delay Property</li>
+  <li>• CSS transition-duration Property</li>
+  <li>• CSS transition-timing-function Property</li>
+  <li>• CSS word-break Property</li>
+  <li>• CSS word-spacing Property</li>
+  <li>• CSS z-index Property</li>
+  <li>• CSS Properties Complete Reference</li>
 </ul>
 
 <h2 id="css-modules">CSS Modules</h2>
@@ -171,47 +171,47 @@
 <p>1. CSS Animations</p>
 <ul>
   <li>• CSS animation Property</li>
-  <li>•	CSS animation-delay Property</li>
-  <li>•	CSS animation-direction Property</li>
-  <li>•	CSS animation-duration Property</li>
-  <li>•	CSS animation-fill-mode Property</li>
-  <li>•	CSS animation-iteration-count Property</li>
-  <li>•	CSS animation-name Property</li>
-  <li>•	CSS animation-play-state Property</li>
-  <li>•	CSS animation-timing-function Property</li>
+  <li>• CSS animation-delay Property</li>
+  <li>• CSS animation-direction Property</li>
+  <li>• CSS animation-duration Property</li>
+  <li>• CSS animation-fill-mode Property</li>
+  <li>• CSS animation-iteration-count Property</li>
+  <li>• CSS animation-name Property</li>
+  <li>• CSS animation-play-state Property</li>
+  <li>• CSS animation-timing-function Property</li>
 </ul>
 <p>2. CSS Borders</p>
 <ul>
-  <li>•	Border Style</li>
-  <li>•	Border Width</li>
-  <li>•	Border Color</li>
-  <li>•	Border radius property</li>
+  <li>• Border Style</li>
+  <li>• Border Width</li>
+  <li>• Border Color</li>
+  <li>• Border radius property</li>
 </ul>
 
 <p>3. CSS Background</p>
 <ul>
-  <li>•	CSS background-color Property</li>
-  <li>•	CSS background-image Property</li>
-  <li>•	CSS background-attachment Property</li>
-  <li>•	CSS background-position Property</li>
-  <li>•	CSS background-origin property</li>
-  <li>•	CSS background-clip Property</li>
+  <li>• CSS background-color Property</li>
+  <li>• CSS background-image Property</li>
+  <li>• CSS background-attachment Property</li>
+  <li>• CSS background-position Property</li>
+  <li>• CSS background-origin property</li>
+  <li>• CSS background-clip Property</li>
 </ul>
 
 <p>4. CSS align</p>
 <ul>
-  <li>•	CSS align-content Property</li>
-  <li>•	CSS align-items Property</li>
-  <li>•	CSS align-self Property</li>
-  <li>•	CSS text-align Property</li>
-  <li>•	CSS vertical-align Property</li>
+  <li>• CSS align-content Property</li>
+  <li>• CSS align-items Property</li>
+  <li>• CSS align-self Property</li>
+  <li>• CSS text-align Property</li>
+  <li>• CSS vertical-align Property</li>
 </ul>
 
 <p>5. CSS Box model</p>
 <ul>
-  <li>•	CSS Borders</li>
-  <li>•	CSS Margins</li>
-  <li>•	CSS Padding</li>
+  <li>• CSS Borders</li>
+  <li>• CSS Margins</li>
+  <li>• CSS Padding</li>
 </ul>
 
 <p>6. What is the cascading order of the three types of CSS</p>
@@ -230,112 +230,112 @@
 <h2 id="css-functions">CSS Functions</h2>
 
 <ul>
-  <li>•	CSS abs() Function</li>
-  <li>•	CSS acos() Function</li>
-  <li>•	CSS asin() Function</li>
-  <li>•	CSS atan() Function</li>
-  <li>•	CSS atan2() Function</li>
-  <li>•	CSS attr() Function</li>
-  <li>•	CSS calc() Function</li>
-  <li>•	CSS clamp() Function</li>
-  <li>•	CSS cos() Function</li>
-  <li>•	CSS env() Function</li>
-  <li>•	CSS max() Function</li>
-  <li>•	CSS min() Function</li>
-  <li>•	CSS sin() Function</li>
-  <li>•	CSS tan() Function</li>
-  <li>•	CSS url() Function</li>
-  <li>•	CSS var() Function</li>
-  <li>•	CSS Functions Complete Reference</li>
+  <li>• CSS abs() Function</li>
+  <li>• CSS acos() Function</li>
+  <li>• CSS asin() Function</li>
+  <li>• CSS atan() Function</li>
+  <li>• CSS atan2() Function</li>
+  <li>• CSS attr() Function</li>
+  <li>• CSS calc() Function</li>
+  <li>• CSS clamp() Function</li>
+  <li>• CSS cos() Function</li>
+  <li>• CSS env() Function</li>
+  <li>• CSS max() Function</li>
+  <li>• CSS min() Function</li>
+  <li>• CSS sin() Function</li>
+  <li>• CSS tan() Function</li>
+  <li>• CSS url() Function</li>
+  <li>• CSS var() Function</li>
+  <li>• CSS Functions Complete Reference</li>
 </ul>
 
 <h2 id="css-combinators">CSS Combinators</h2>
 <ul>
-  <li>•	CSS Combinators</li>
-  <li>•	CSS Adjacent sibling combinator</li>
-  <li>•	CSS Child combinator</li>
-  <li>•	CSS Descendant combinator</li>
-  <li>•	CSS General sibling combinator</li>
-  <li>•	CSS Namespace separator</li>
-  <li>•	CSS Selector list</li>
+  <li>• CSS Combinators</li>
+  <li>• CSS Adjacent sibling combinator</li>
+  <li>• CSS Child combinator</li>
+  <li>• CSS Descendant combinator</li>
+  <li>• CSS General sibling combinator</li>
+  <li>• CSS Namespace separator</li>
+  <li>• CSS Selector list</li>
 </ul>
 
 <h2 id="css-pseudo-class">CSS Pseudo-classes & Elements</h2>
 <p>1. CSS Pseudo-classes</p>
 
-  <li>•	CSS :active pseudo-class</li>
-  <li>•	CSS :any-link pseudo-class</li>
-  <li>•	CSS :autofill pseudo-class</li>
-  <li>•	CSS :checked pseudo-class</li>
-  <li>•	CSS :dir() pseudo-class</li>
-  <li>•	CSS :first-child pseudo-class</li>
-  <li>•	CSS :first-of-type pseudo-class</li>
-  <li>•	CSS :focus pseudo-class</li>
-  <li>•	CSS :focus-within pseudo-class</li>
-  <li>•	CSS :has() pseudo-class</li>
-  <li>•	CSS :hover pseudo-class</li>
-  <li>•	CSS :in-range pseudo-class</li>
-  <li>•	CSS :indeterminate pseudo-class</li>
-  <li>•	CSS :invalid pseudo-class</li>
-  <li>•	CSS :lang() pseudo-class</li>
-  <li>•	CSS :nth-child() pseudo-class</li>
-  <li>•	CSS :nth-last-child() pseudo-class</li>
-  <li>•	CSS :nth-last-of-type() pseudo-class</li>
-  <li>•	CSS :nth-of-type() pseudo-class</li>
-  <li>•	CSS :scope pseudo-class</li>
-  <li>•	CSS :visited pseudo-class</li>
-  <li>•	CSS :where() pseudo-class</li>
+  <li>• CSS :active pseudo-class</li>
+  <li>• CSS :any-link pseudo-class</li>
+  <li>• CSS :autofill pseudo-class</li>
+  <li>• CSS :checked pseudo-class</li>
+  <li>• CSS :dir() pseudo-class</li>
+  <li>• CSS :first-child pseudo-class</li>
+  <li>• CSS :first-of-type pseudo-class</li>
+  <li>• CSS :focus pseudo-class</li>
+  <li>• CSS :focus-within pseudo-class</li>
+  <li>• CSS :has() pseudo-class</li>
+  <li>• CSS :hover pseudo-class</li>
+  <li>• CSS :in-range pseudo-class</li>
+  <li>• CSS :indeterminate pseudo-class</li>
+  <li>• CSS :invalid pseudo-class</li>
+  <li>• CSS :lang() pseudo-class</li>
+  <li>• CSS :nth-child() pseudo-class</li>
+  <li>• CSS :nth-last-child() pseudo-class</li>
+  <li>• CSS :nth-last-of-type() pseudo-class</li>
+  <li>• CSS :nth-of-type() pseudo-class</li>
+  <li>• CSS :scope pseudo-class</li>
+  <li>• CSS :visited pseudo-class</li>
+  <li>• CSS :where() pseudo-class</li>
 </ul>
 
 <p>2. CSS Pseudo-Elements</p>
-•	CSS ::after
-•	CSS ::before
-•	CSS ::first-letter
-•	CSS ::first-line
-•	CSS ::marker
-•	CSS ::placeholder
-•	CSS ::selection
+• CSS ::after
+• CSS ::before
+• CSS ::first-letter
+• CSS ::first-line
+• CSS ::marker
+• CSS ::placeholder
+• CSS ::selection
 
 <h2 id="css-at-rules">CSS At-rules</h2>
-•	CSS At-Rules
-•	CSS @charset Rule
-•	CSS @color-profile Rule
-•	CSS @container Rule
-•	CSS @counter-style Rule
-•	CSS @font-face Rule
-•	CSS @font-feature-values Rule
-•	CSS @font-palette-values Rule
-•	CSS @import Rule
-•	CSS @keyframes Rule
-•	CSS @layer Rule
-•	CSS @media Rule
-•	CSS @namespace Rule
-•	CSS @page Rule
-•	CSS @property Rule
-•	CSS @supports Rule
+• CSS At-Rules
+• CSS @charset Rule
+• CSS @color-profile Rule
+• CSS @container Rule
+• CSS @counter-style Rule
+• CSS @font-face Rule
+• CSS @font-feature-values Rule
+• CSS @font-palette-values Rule
+• CSS @import Rule
+• CSS @keyframes Rule
+• CSS @layer Rule
+• CSS @media Rule
+• CSS @namespace Rule
+• CSS @page Rule
+• CSS @property Rule
+• CSS @supports Rule
 
 <h2>CSS Interview Preparation</h2>
-•	CSS Interview Questions and Answers (2023)
+• CSS Interview Questions and Answers (2023)
 
 <h2>CSS Practice Quiz</h2>
-•	CSS Quiz | Set-1
-•	CSS Quiz | Set-2
-•	CSS Quiz | Set-3
+• CSS Quiz | Set-1
+• CSS Quiz | Set-2
+• CSS Quiz | Set-3
 
 <h2 id="css-frameworks">CSS Frameworks</h2>
-•	Bootstrap 5
-•	Bulma CSS
-•	Foundation CSS
-•	Materialize CSS
-•	Onsen UI
-•	Pure CSS
-•	Semantic UI
-•	Spectre CSS
-•	Tailwind CSS
+• Bootstrap 5
+• Bulma CSS
+• Foundation CSS
+• Materialize CSS
+• Onsen UI
+• Pure CSS
+• Semantic UI
+• Spectre CSS
+• Tailwind CSS
 
 <h2>CSS Course & Cheat Sheet</h2>
-•	CSS Free Course
-•	CSS Cheat Sheet – A Basic Guide to CSS
+• CSS Free Course
+• CSS Cheat Sheet – A Basic Guide to CSS
 
 Article Tags:
 Web Technologies
@@ -350,39 +350,39 @@ Modern Layout Systems
 Effects, Animations & Advanced CSS
 
 Courses
-•	Blogs
-•	Nation Skill Up
-•	Tutorials
-•	Programming Languages
-•	DSA
-•	Web Technology
-•	AI, ML & Data Science
-•	DevOps
-•	CS Core Subjects
-•	Interview Preparation
-•	Software and Tools
-•	Courses
-•	ML and Data Science
-•	DSA and Placements
-•	Web Development
-•	Programming Languages
-•	DevOps & Cloud
-•	GATE
-•	Trending Technologies
-•	Videos
-•	DSA
-•	Python
-•	Java
-•	C++
-•	Web Development
-•	Data Science
-•	CS Subjects
-•	Preparation Corner
-•	Interview Corner
-•	Aptitude
-•	Puzzles
-•	GfG 160
-•	System Design
+• Blogs
+• Nation Skill Up
+• Tutorials
+• Programming Languages
+• DSA
+• Web Technology
+• AI, ML & Data Science
+• DevOps
+• CS Core Subjects
+• Interview Preparation
+• Software and Tools
+• Courses
+• ML and Data Science
+• DSA and Placements
+• Web Development
+• Programming Languages
+• DevOps & Cloud
+• GATE
+• Trending Technologies
+• Videos
+• DSA
+• Python
+• Java
+• C++
+• Web Development
+• Data Science
+• CS Subjects
+• Preparation Corner
+• Interview Corner
+• Aptitude
+• Puzzles
+• GfG 160
+• System Design
 
 
 
